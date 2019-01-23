@@ -19,6 +19,8 @@ Followed the setup course for linux webserver on Udacity [here](https://classroo
 - The WSGI file is in /var/www/itemcatalog and is called 'myapp.wsgi'  
 - The virtual machine created is called flask
 
+## File locations
+The project is located in /var/www/itemcatalog/itemcatalog
 
 ## Software:  
 - python  

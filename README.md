@@ -1,21 +1,23 @@
 # Catalog Project - Hosted
 
 ## SSH connection 
-IP: 18.130.116.182  
+IP: 35.177.156.240  
 Port: 22
 
-## URL to hosted web application
-http://18.130.116.182.xip.io
+### I cannot change to port to 2200. It just doesn't work. I have been locked out 3 times now. I enable it on the firewall, change it in the config file and restart the ssh service but it all doesn't work. Maybe the port is reserved by something else.
 
-## Notes from me
-Despite following all instructions and tutorials the port will not change for ssh. The application cannot access the database file despite changing all permissions to allow it to do so. I have spent a crazy amount of time trying to get this to work. Worked around a ridiculous amount of errors and problems and finally came to one I can't fix.
+## URL to hosted web application
+http://35.177.156.240.xip.io
+
+## Internal server error
+The latest error is no module named database_setup and I have no idea how to fix it.
+
 
 ## Setup:
 Followed the setup course for linux webserver on Udacity [here](https://classroom.udacity.com/courses/ud299)  
 - The web applications files are in /var/www/itemcatalog/itemcatalog  
 - The WSGI file is in /var/www/itemcatalog and is called 'myapp.wsgi'  
 - The virtual machine created is called flask
-
 
 
 ## Software:  

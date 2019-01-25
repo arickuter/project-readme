@@ -9,9 +9,6 @@ Port: 22
 ## URL to hosted web application
 http://35.177.156.240.xip.io
 
-## Internal server error
-The latest error is no module named database_setup and I have no idea how to fix it.
-
 
 ## Setup:
 Followed the setup course for linux webserver on Udacity [here](https://classroom.udacity.com/courses/ud299)  

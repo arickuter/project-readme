@@ -2,9 +2,7 @@
 
 ## SSH connection 
 IP: 35.177.156.240  
-Port: 22
-
-### I cannot change to port to 2200. It just doesn't work. I have been locked out 3 times now. I enable it on the firewall, change it in the config file and restart the ssh service but it all doesn't work. Maybe the port is reserved by something else.
+Port: 2200
 
 ## URL to hosted web application
 http://35.177.156.240.xip.io

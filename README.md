@@ -9,7 +9,6 @@ Port: 22
 ## URL to hosted web application
 http://35.177.156.240.xip.io
 
-
 ## Setup:
 Followed the setup course for linux webserver on Udacity [here](https://classroom.udacity.com/courses/ud299)  
 - The web applications files are in /var/www/itemcatalog/itemcatalog  
@@ -26,3 +25,9 @@ The project is located in /var/www/itemcatalog/itemcatalog
 - sqlalchemy  
 - oauth2client  
 - requests
+
+## Third part resources
+- Udacity
+- Amazon Lightsail docs
+- PostgreSQL cheat sheet
+- Stackoverflow
